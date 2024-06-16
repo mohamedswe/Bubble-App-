@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "react-native-static-server": "^0.5.0",
+    "react-native-webview": "^13.10.2",
+    "rn-fetch-blob": "^0.12.0"
+  }
+}
